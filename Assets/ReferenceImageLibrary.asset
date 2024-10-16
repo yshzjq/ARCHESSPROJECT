@@ -1,0 +1,1119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4924817503574046576
+  m_GuidHigh: 2616557788897974191
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5523082359476694039
+      m_GuidHigh: 12718974481879694478
+    m_SerializedTextureGuid:
+      m_GuidLow: 37174187167117631
+      m_GuidHigh: 18195068784699744491
+    m_Size: {x: 0.15, y: 0.28591162}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5129134955946695787
+      m_GuidHigh: 17115690596737752980
+    m_SerializedTextureGuid:
+      m_GuidLow: 17443595036859938900
+      m_GuidHigh: 2274421311673923082
+    m_Size: {x: 0.15, y: 0.3390411}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5068576999297769566
+      m_GuidHigh: 16068708718417263536
+    m_SerializedTextureGuid:
+      m_GuidLow: 8094192899868648540
+      m_GuidHigh: 16189808221075062345
+    m_Size: {x: 0.15, y: 0.30857143}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4899830967283006427
+      m_GuidHigh: 2835391532066875566
+    m_SerializedTextureGuid:
+      m_GuidLow: 3086201725672867359
+      m_GuidHigh: 13802977422356986185
+    m_Size: {x: 0.15, y: 0.24351853}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5149639250543303894
+      m_GuidHigh: 13431406360818653337
+    m_SerializedTextureGuid:
+      m_GuidLow: 3234802413834261427
+      m_GuidHigh: 3974783129135746539
+    m_Size: {x: 0.15, y: 0.3032143}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4891221997397323016
+      m_GuidHigh: 14867590881272298919
+    m_SerializedTextureGuid:
+      m_GuidLow: 13521100590645921219
+      m_GuidHigh: 3035503355651477928
+    m_Size: {x: 0.15, y: 0.17826088}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5371743852954397139
+      m_GuidHigh: 7852684975404830652
+    m_SerializedTextureGuid:
+      m_GuidLow: 8094192899868648540
+      m_GuidHigh: 16189808221075062345
+    m_Size: {x: 0.2, y: 0.41142857}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5494748476128931056
+      m_GuidHigh: 2260608651743967117
+    m_SerializedTextureGuid:
+      m_GuidLow: 37174187167117631
+      m_GuidHigh: 18195068784699744491
+    m_Size: {x: 0.2, y: 0.38121548}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4735371585434706099
+      m_GuidHigh: 17575108994726164665
+    m_SerializedTextureGuid:
+      m_GuidLow: 3086201725672867359
+      m_GuidHigh: 13802977422356986185
+    m_Size: {x: 0.2, y: 0.32469136}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5295572860573139384
+      m_GuidHigh: 17080570837101139592
+    m_SerializedTextureGuid:
+      m_GuidLow: 13521100590645921219
+      m_GuidHigh: 3035503355651477928
+    m_Size: {x: 0.2, y: 0.23768117}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5703103663711567422
+      m_GuidHigh: 1994717250849622924
+    m_SerializedTextureGuid:
+      m_GuidLow: 17443595036859938900
+      m_GuidHigh: 2274421311673923082
+    m_Size: {x: 0.2, y: 0.4520548}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5177783835970365418
+      m_GuidHigh: 221784494795185078
+    m_SerializedTextureGuid:
+      m_GuidLow: 3234802413834261427
+      m_GuidHigh: 3974783129135746539
+    m_Size: {x: 0.2, y: 0.40428573}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4944527638014659187
+      m_GuidHigh: 1307035703803559561
+    m_SerializedTextureGuid:
+      m_GuidLow: 8094192899868648540
+      m_GuidHigh: 16189808221075062345
+    m_Size: {x: 0.1, y: 0.20571429}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5381708985338024014
+      m_GuidHigh: 352137101267564967
+    m_SerializedTextureGuid:
+      m_GuidLow: 37174187167117631
+      m_GuidHigh: 18195068784699744491
+    m_Size: {x: 0.1, y: 0.19060774}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5313134889052683926
+      m_GuidHigh: 10186717207876011671
+    m_SerializedTextureGuid:
+      m_GuidLow: 3086201725672867359
+      m_GuidHigh: 13802977422356986185
+    m_Size: {x: 0.1, y: 0.16234568}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5170683952634764352
+      m_GuidHigh: 683657656997788804
+    m_SerializedTextureGuid:
+      m_GuidLow: 13521100590645921219
+      m_GuidHigh: 3035503355651477928
+    m_Size: {x: 0.1, y: 0.11884058}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4948114675490785735
+      m_GuidHigh: 4788082991736428691
+    m_SerializedTextureGuid:
+      m_GuidLow: 17443595036859938900
+      m_GuidHigh: 2274421311673923082
+    m_Size: {x: 0.1, y: 0.2260274}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5500446261893425317
+      m_GuidHigh: 16254165773780730760
+    m_SerializedTextureGuid:
+      m_GuidLow: 3234802413834261427
+      m_GuidHigh: 3974783129135746539
+    m_Size: {x: 0.1, y: 0.20214286}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5084307914345160411
+      m_GuidHigh: 6521948841134418586
+    m_SerializedTextureGuid:
+      m_GuidLow: 6063227434348221559
+      m_GuidHigh: 10565663076683155691
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5287524430561112216
+      m_GuidHigh: 12288962738777914292
+    m_SerializedTextureGuid:
+      m_GuidLow: 6063227434348221559
+      m_GuidHigh: 10565663076683155691
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5272024955458008559
+      m_GuidHigh: 15720499344099332759
+    m_SerializedTextureGuid:
+      m_GuidLow: 6063227434348221559
+      m_GuidHigh: 10565663076683155691
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5072526060483998194
+      m_GuidHigh: 7814707666679164552
+    m_SerializedTextureGuid:
+      m_GuidLow: 712955845987159633
+      m_GuidHigh: 20097747397627241
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4716334460302393484
+      m_GuidHigh: 15725392876032150403
+    m_SerializedTextureGuid:
+      m_GuidLow: 712955845987159633
+      m_GuidHigh: 20097747397627241
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5649866396061078494
+      m_GuidHigh: 8545209808795399552
+    m_SerializedTextureGuid:
+      m_GuidLow: 712955845987159633
+      m_GuidHigh: 20097747397627241
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5069213384642180155
+      m_GuidHigh: 6117777754042226331
+    m_SerializedTextureGuid:
+      m_GuidLow: 3595039299267561604
+      m_GuidHigh: 4564548812193040235
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5323627320729396221
+      m_GuidHigh: 10253826354588674211
+    m_SerializedTextureGuid:
+      m_GuidLow: 3595039299267561604
+      m_GuidHigh: 4564548812193040235
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5289380267417556670
+      m_GuidHigh: 15885597971935265708
+    m_SerializedTextureGuid:
+      m_GuidLow: 3595039299267561604
+      m_GuidHigh: 4564548812193040235
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5251762244312791752
+      m_GuidHigh: 8636679431260836781
+    m_SerializedTextureGuid:
+      m_GuidLow: 82283583657478460
+      m_GuidHigh: 808509575487982010
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5326424735277621732
+      m_GuidHigh: 16222615466283830179
+    m_SerializedTextureGuid:
+      m_GuidLow: 82283583657478460
+      m_GuidHigh: 808509575487982010
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5073610253119790830
+      m_GuidHigh: 5416498623986980224
+    m_SerializedTextureGuid:
+      m_GuidLow: 82283583657478460
+      m_GuidHigh: 808509575487982010
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4947433529112684318
+      m_GuidHigh: 18241537887080172167
+    m_SerializedTextureGuid:
+      m_GuidLow: 12016820708250747780
+      m_GuidHigh: 2866904594364352507
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4763991825469455461
+      m_GuidHigh: 14613983031668269978
+    m_SerializedTextureGuid:
+      m_GuidLow: 12016820708250747780
+      m_GuidHigh: 2866904594364352507
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5686087379878656447
+      m_GuidHigh: 17918226121553998512
+    m_SerializedTextureGuid:
+      m_GuidLow: 12016820708250747780
+      m_GuidHigh: 2866904594364352507
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5256949974734270211
+      m_GuidHigh: 9797391981073470858
+    m_SerializedTextureGuid:
+      m_GuidLow: 14183120318145118676
+      m_GuidHigh: 6726223569360248379
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5662570350736423051
+      m_GuidHigh: 12172449569784825758
+    m_SerializedTextureGuid:
+      m_GuidLow: 14183120318145118676
+      m_GuidHigh: 6726223569360248379
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4895566282411837287
+      m_GuidHigh: 8314670066542457023
+    m_SerializedTextureGuid:
+      m_GuidLow: 14183120318145118676
+      m_GuidHigh: 6726223569360248379
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4990803252590485139
+      m_GuidHigh: 14251958762606516621
+    m_SerializedTextureGuid:
+      m_GuidLow: 6783716372150323241
+      m_GuidHigh: 16830393130570292843
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4938176586441381979
+      m_GuidHigh: 14749698743119223696
+    m_SerializedTextureGuid:
+      m_GuidLow: 6783716372150323241
+      m_GuidHigh: 16830393130570292843
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5360530304022958381
+      m_GuidHigh: 17277841118014039954
+    m_SerializedTextureGuid:
+      m_GuidLow: 6783716372150323241
+      m_GuidHigh: 16830393130570292843
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4800240285111236406
+      m_GuidHigh: 5490364351605594788
+    m_SerializedTextureGuid:
+      m_GuidLow: 6783716372150323241
+      m_GuidHigh: 16830393130570292843
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5030948112883816916
+      m_GuidHigh: 5838139660328628644
+    m_SerializedTextureGuid:
+      m_GuidLow: 17187025986699362596
+      m_GuidHigh: 2110857010375030696
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5065368563396034599
+      m_GuidHigh: 16631180529266164896
+    m_SerializedTextureGuid:
+      m_GuidLow: 17187025986699362596
+      m_GuidHigh: 2110857010375030696
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5613299906636829636
+      m_GuidHigh: 9079232034228964480
+    m_SerializedTextureGuid:
+      m_GuidLow: 17187025986699362596
+      m_GuidHigh: 2110857010375030696
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5669029649767983410
+      m_GuidHigh: 7946517430276674966
+    m_SerializedTextureGuid:
+      m_GuidLow: 17187025986699362596
+      m_GuidHigh: 2110857010375030696
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5076564022511669963
+      m_GuidHigh: 5304138843894435489
+    m_SerializedTextureGuid:
+      m_GuidLow: 14813507342158993016
+      m_GuidHigh: 196070970721926682
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4746538177277160130
+      m_GuidHigh: 6526452991674134943
+    m_SerializedTextureGuid:
+      m_GuidLow: 14813507342158993016
+      m_GuidHigh: 196070970721926682
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4980009396158429754
+      m_GuidHigh: 10903529415059422610
+    m_SerializedTextureGuid:
+      m_GuidLow: 14813507342158993016
+      m_GuidHigh: 196070970721926682
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4634456274043962373
+      m_GuidHigh: 9946875068827396778
+    m_SerializedTextureGuid:
+      m_GuidLow: 14813507342158993016
+      m_GuidHigh: 196070970721926682
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5229003906339860724
+      m_GuidHigh: 9128723844165191334
+    m_SerializedTextureGuid:
+      m_GuidLow: 1933264152879205334
+      m_GuidHigh: 13447428986084438826
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5531270610471698111
+      m_GuidHigh: 7031366750596062105
+    m_SerializedTextureGuid:
+      m_GuidLow: 1933264152879205334
+      m_GuidHigh: 13447428986084438826
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4841717321498761301
+      m_GuidHigh: 15039321280454730160
+    m_SerializedTextureGuid:
+      m_GuidLow: 1933264152879205334
+      m_GuidHigh: 13447428986084438826
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4865566872183535025
+      m_GuidHigh: 13849209116371058607
+    m_SerializedTextureGuid:
+      m_GuidLow: 1933264152879205334
+      m_GuidHigh: 13447428986084438826
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5259856393369445938
+      m_GuidHigh: 2903843393231626378
+    m_SerializedTextureGuid:
+      m_GuidLow: 4266302916429968979
+      m_GuidHigh: 1551037927208164459
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5508514931643215793
+      m_GuidHigh: 15124512816644836262
+    m_SerializedTextureGuid:
+      m_GuidLow: 4266302916429968979
+      m_GuidHigh: 1551037927208164459
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5459640180434665491
+      m_GuidHigh: 5843762590150611083
+    m_SerializedTextureGuid:
+      m_GuidLow: 4266302916429968979
+      m_GuidHigh: 1551037927208164459
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4723151950766858993
+      m_GuidHigh: 15315913580618000049
+    m_SerializedTextureGuid:
+      m_GuidLow: 4266302916429968979
+      m_GuidHigh: 1551037927208164459
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5541221563217119430
+      m_GuidHigh: 2633917568867530918
+    m_SerializedTextureGuid:
+      m_GuidLow: 15759370072292520262
+      m_GuidHigh: 11792091686916246698
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5180930213526164723
+      m_GuidHigh: 16962188882196975511
+    m_SerializedTextureGuid:
+      m_GuidLow: 15759370072292520262
+      m_GuidHigh: 11792091686916246698
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5450047925760339295
+      m_GuidHigh: 6852425173863173560
+    m_SerializedTextureGuid:
+      m_GuidLow: 15759370072292520262
+      m_GuidHigh: 11792091686916246698
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5188549870350267862
+      m_GuidHigh: 5502561836856189067
+    m_SerializedTextureGuid:
+      m_GuidLow: 15759370072292520262
+      m_GuidHigh: 11792091686916246698
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5255012628701716548
+      m_GuidHigh: 5569235532715799431
+    m_SerializedTextureGuid:
+      m_GuidLow: 11805224861409939316
+      m_GuidHigh: 15831546404301876779
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5586022480286898066
+      m_GuidHigh: 17159260701469071258
+    m_SerializedTextureGuid:
+      m_GuidLow: 11805224861409939316
+      m_GuidHigh: 15831546404301876779
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4720294673003761508
+      m_GuidHigh: 4173704141514502335
+    m_SerializedTextureGuid:
+      m_GuidLow: 11805224861409939316
+      m_GuidHigh: 15831546404301876779
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4634622180542764686
+      m_GuidHigh: 3413326871174911144
+    m_SerializedTextureGuid:
+      m_GuidLow: 11805224861409939316
+      m_GuidHigh: 15831546404301876779
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4906090798592847191
+      m_GuidHigh: 8112939384672940932
+    m_SerializedTextureGuid:
+      m_GuidLow: 17984087704752856997
+      m_GuidHigh: 15216915865028010730
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5739155871873190480
+      m_GuidHigh: 6800747392134518915
+    m_SerializedTextureGuid:
+      m_GuidLow: 17984087704752856997
+      m_GuidHigh: 15216915865028010730
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5021985321226670552
+      m_GuidHigh: 124511741092981391
+    m_SerializedTextureGuid:
+      m_GuidLow: 17984087704752856997
+      m_GuidHigh: 15216915865028010730
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5303584451542845198
+      m_GuidHigh: 7989749107235285891
+    m_SerializedTextureGuid:
+      m_GuidLow: 17984087704752856997
+      m_GuidHigh: 15216915865028010730
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4782106001349586051
+      m_GuidHigh: 13113793361725211267
+    m_SerializedTextureGuid:
+      m_GuidLow: 14660372298106208164
+      m_GuidHigh: 9940100261144100920
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4660435539135398039
+      m_GuidHigh: 2377504261283125649
+    m_SerializedTextureGuid:
+      m_GuidLow: 14660372298106208164
+      m_GuidHigh: 9940100261144100920
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5172191548189529778
+      m_GuidHigh: 10988743453017031827
+    m_SerializedTextureGuid:
+      m_GuidLow: 14660372298106208164
+      m_GuidHigh: 9940100261144100920
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5656666203783276920
+      m_GuidHigh: 4771699101387871645
+    m_SerializedTextureGuid:
+      m_GuidLow: 14660372298106208164
+      m_GuidHigh: 9940100261144100920
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5650385414547718909
+      m_GuidHigh: 10689743949009413785
+    m_SerializedTextureGuid:
+      m_GuidLow: 6662009823215342132
+      m_GuidHigh: 12032148127552933051
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4658744857698292681
+      m_GuidHigh: 10019314017522840727
+    m_SerializedTextureGuid:
+      m_GuidLow: 6662009823215342132
+      m_GuidHigh: 12032148127552933051
+    m_Size: {x: 0.02, y: 0.014996456}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5071156352809982845
+      m_GuidHigh: 11832913018281820076
+    m_SerializedTextureGuid:
+      m_GuidLow: 6662009823215342132
+      m_GuidHigh: 12032148127552933051
+    m_Size: {x: 0.05, y: 0.037491143}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4614031945673510980
+      m_GuidHigh: 10423989999690438545
+    m_SerializedTextureGuid:
+      m_GuidLow: 6662009823215342132
+      m_GuidHigh: 12032148127552933051
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4882239506635707744
+      m_GuidHigh: 77041707758250659
+    m_SerializedTextureGuid:
+      m_GuidLow: 15237001305398650023
+      m_GuidHigh: 11081634297955444216
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5354260278764095605
+      m_GuidHigh: 4259637445103011002
+    m_SerializedTextureGuid:
+      m_GuidLow: 15237001305398650023
+      m_GuidHigh: 11081634297955444216
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5024133893691083407
+      m_GuidHigh: 913622666594868894
+    m_SerializedTextureGuid:
+      m_GuidLow: 15237001305398650023
+      m_GuidHigh: 11081634297955444216
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5650040410723842909
+      m_GuidHigh: 147881459033572519
+    m_SerializedTextureGuid:
+      m_GuidLow: 15237001305398650023
+      m_GuidHigh: 11081634297955444216
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4859566194639123369
+      m_GuidHigh: 17725475961423952265
+    m_SerializedTextureGuid:
+      m_GuidLow: 18141628727800718604
+      m_GuidHigh: 4063726022160969177
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5628501098286713805
+      m_GuidHigh: 4002005453817886100
+    m_SerializedTextureGuid:
+      m_GuidLow: 18141628727800718604
+      m_GuidHigh: 4063726022160969177
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5286188218457296483
+      m_GuidHigh: 4093840909476429457
+    m_SerializedTextureGuid:
+      m_GuidLow: 18141628727800718604
+      m_GuidHigh: 4063726022160969177
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5550968514984510688
+      m_GuidHigh: 15717486013598743181
+    m_SerializedTextureGuid:
+      m_GuidLow: 18141628727800718604
+      m_GuidHigh: 4063726022160969177
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5585958207407461317
+      m_GuidHigh: 17181818924238785969
+    m_SerializedTextureGuid:
+      m_GuidLow: 4446380441366144292
+      m_GuidHigh: 4996496209757618568
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4628831478093060668
+      m_GuidHigh: 5049712223456584865
+    m_SerializedTextureGuid:
+      m_GuidLow: 4446380441366144292
+      m_GuidHigh: 4996496209757618568
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5010127024316837241
+      m_GuidHigh: 15866190155909000628
+    m_SerializedTextureGuid:
+      m_GuidLow: 4446380441366144292
+      m_GuidHigh: 4996496209757618568
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5733296941310489643
+      m_GuidHigh: 1625955384343083397
+    m_SerializedTextureGuid:
+      m_GuidLow: 4446380441366144292
+      m_GuidHigh: 4996496209757618568
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5356017738211012128
+      m_GuidHigh: 14273699322746065844
+    m_SerializedTextureGuid:
+      m_GuidLow: 1906355134620867251
+      m_GuidHigh: 5415294921074931112
+    m_Size: {x: 0.1, y: 0.074982285}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4905820203104834185
+      m_GuidHigh: 4806626660272052123
+    m_SerializedTextureGuid:
+      m_GuidLow: 1906355134620867251
+      m_GuidHigh: 5415294921074931112
+    m_Size: {x: 0.15, y: 0.11247343}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5068781959978879641
+      m_GuidHigh: 11743571870487771551
+    m_SerializedTextureGuid:
+      m_GuidLow: 1906355134620867251
+      m_GuidHigh: 5415294921074931112
+    m_Size: {x: 0.2, y: 0.14996457}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4993600540220467463
+      m_GuidHigh: 13438918655623536002
+    m_SerializedTextureGuid:
+      m_GuidLow: 1906355134620867251
+      m_GuidHigh: 5415294921074931112
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5693186105894985349
+      m_GuidHigh: 13919698425300884919
+    m_SerializedTextureGuid:
+      m_GuidLow: 3090692812446577779
+      m_GuidHigh: 11701396060805750443
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5094385083042498085
+      m_GuidHigh: 12486945544669751974
+    m_SerializedTextureGuid:
+      m_GuidLow: 3090692812446577779
+      m_GuidHigh: 11701396060805750443
+    m_Size: {x: 0.6, y: 0.6}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5220199914775774304
+      m_GuidHigh: 7129015045200447676
+    m_SerializedTextureGuid:
+      m_GuidLow: 3090692812446577779
+      m_GuidHigh: 11701396060805750443
+    m_Size: {x: 0.9, y: 0.9}
+    m_SpecifySize: 1
+    m_Name: King
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5689100811107106399
+      m_GuidHigh: 1448027118069069730
+    m_SerializedTextureGuid:
+      m_GuidLow: 1946808397544853167
+      m_GuidHigh: 423513670235487819
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4665121321774872491
+      m_GuidHigh: 6202280761184085160
+    m_SerializedTextureGuid:
+      m_GuidLow: 1946808397544853167
+      m_GuidHigh: 423513670235487819
+    m_Size: {x: 0.6, y: 0.6}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4906567222422152179
+      m_GuidHigh: 4961648652251651247
+    m_SerializedTextureGuid:
+      m_GuidLow: 1946808397544853167
+      m_GuidHigh: 423513670235487819
+    m_Size: {x: 0.9, y: 0.9}
+    m_SpecifySize: 1
+    m_Name: Bishop
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5386200737607390380
+      m_GuidHigh: 15398955282107784353
+    m_SerializedTextureGuid:
+      m_GuidLow: 7454802599647727285
+      m_GuidHigh: 926378909523739928
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4837540396256537339
+      m_GuidHigh: 14831452113802073011
+    m_SerializedTextureGuid:
+      m_GuidLow: 7454802599647727285
+      m_GuidHigh: 926378909523739928
+    m_Size: {x: 0.6, y: 0.6}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5705879203856439987
+      m_GuidHigh: 10096344669656575925
+    m_SerializedTextureGuid:
+      m_GuidLow: 7454802599647727285
+      m_GuidHigh: 926378909523739928
+    m_Size: {x: 0.9, y: 0.9}
+    m_SpecifySize: 1
+    m_Name: Knight
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4884684350416282176
+      m_GuidHigh: 9403596523606445503
+    m_SerializedTextureGuid:
+      m_GuidLow: 10156997491956645921
+      m_GuidHigh: 4854358130940260809
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5251189934174723684
+      m_GuidHigh: 17968241301769273254
+    m_SerializedTextureGuid:
+      m_GuidLow: 10156997491956645921
+      m_GuidHigh: 4854358130940260809
+    m_Size: {x: 0.6, y: 0.6}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5510489879666404430
+      m_GuidHigh: 6428386443909804685
+    m_SerializedTextureGuid:
+      m_GuidLow: 10156997491956645921
+      m_GuidHigh: 4854358130940260809
+    m_Size: {x: 0.9, y: 0.9}
+    m_SpecifySize: 1
+    m_Name: Queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5427127681291224493
+      m_GuidHigh: 9395851934413783471
+    m_SerializedTextureGuid:
+      m_GuidLow: 2374791675598591756
+      m_GuidHigh: 9318715742370181753
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5222271710397165003
+      m_GuidHigh: 12984963010566566805
+    m_SerializedTextureGuid:
+      m_GuidLow: 2374791675598591756
+      m_GuidHigh: 9318715742370181753
+    m_Size: {x: 0.6, y: 0.6}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4960295637448787942
+      m_GuidHigh: 8123376671931516316
+    m_SerializedTextureGuid:
+      m_GuidLow: 2374791675598591756
+      m_GuidHigh: 9318715742370181753
+    m_Size: {x: 0.9, y: 0.9}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5027758697433408886
+      m_GuidHigh: 1574161624361769364
+    m_SerializedTextureGuid:
+      m_GuidLow: 3356348145288714684
+      m_GuidHigh: 12222794820682621720
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4980404052507142195
+      m_GuidHigh: 17674993801456955058
+    m_SerializedTextureGuid:
+      m_GuidLow: 3356348145288714684
+      m_GuidHigh: 12222794820682621720
+    m_Size: {x: 0.6, y: 0.6}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5679955435184106943
+      m_GuidHigh: 1858358564606371240
+    m_SerializedTextureGuid:
+      m_GuidLow: 3356348145288714684
+      m_GuidHigh: 12222794820682621720
+    m_Size: {x: 0.9, y: 0.9}
+    m_SpecifySize: 1
+    m_Name: Pawn
+    m_Texture: {fileID: 0}

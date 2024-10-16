@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\Unity\\arbookpractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|D:\\work\\Unity\\arbookpractice\\assets\\scripts\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|D:\\work\\Unity\\arbookpractice\\assets\\scripts\\informatiionscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\informatiionscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|d:\\work\\unity\\arbookpractice\\assets\\scripts\\fade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|D:\\work\\Unity\\arbookpractice\\assets\\scripts\\fading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|D:\\work\\Unity\\arbookpractice\\assets\\scripts\\soundmanagerscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanagerscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|D:\\work\\Unity\\arbookpractice\\assets\\scripts\\objectvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\arbookpractice\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreImageLibraryBuildProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreImageLibraryBuildProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|D:\\work\\Unity\\arbookpractice\\assets\\scripts\\loadingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17A26DC-B42D-A818-32FB-A1036DCA7613}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fade.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\fade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fade.cs",
+              "ToolTip": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\fade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fade.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:27:01.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoundManagerScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\SoundManagerScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManagerScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\SoundManagerScripts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManagerScripts.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:09:11.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "objectvoice.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\objectvoice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objectvoice.cs",
+              "ToolTip": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\objectvoice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objectvoice.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:19:37.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\Track.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Track.cs",
+              "ToolTip": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\Track.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Track.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwE4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:49:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ARCoreImageLibraryBuildProcessor.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\arbookpractice\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreImageLibraryBuildProcessor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreImageLibraryBuildProcessor.cs",
+              "ToolTip": "D:\\work\\Unity\\arbookpractice\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreImageLibraryBuildProcessor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreImageLibraryBuildProcessor.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wDAAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:39:10.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingText.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\LoadingText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingText.cs",
+              "ToolTip": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\LoadingText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingText.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:39:14.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fading.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\fading.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fading.cs",
+              "ToolTip": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\fading.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fading.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:39:00.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "informatiionScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\informatiionScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\informatiionScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\arbookpractice\\Assets\\Scripts\\informatiionScripts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\informatiionScripts.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:32:49.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
